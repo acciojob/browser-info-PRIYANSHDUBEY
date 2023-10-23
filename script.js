@@ -24,4 +24,4 @@
         // Display the browser information in the "browser-info" div
         var browserInfoDiv = document.getElementById("browser-info");
         browserInfoDiv.textContent = "You are using " + browserName + " version " + version;
-    </script>
+  
